@@ -1,3 +1,3 @@
-# CSE 332 Project 2
+# CSE 332 Project 2 (uMessage)
 
-Please see the linked spec on the website for more information!
+This project includes several custom implementations of Lists and Dictionaries. These can be found under `src/main/datastructures`.  There are also implementations of a few sorting algorithms that can be found in `src/main/p2/sorts`.
